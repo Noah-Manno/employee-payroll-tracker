@@ -14,7 +14,7 @@ let askAgain = true
   let salaryString = prompt("Enter Your Salary:");
   let salary = parseInt(salaryString)
   if (isNaN(salary)) {
-    return 0
+    salary = 0
     }
   // console.log (salary);
 
