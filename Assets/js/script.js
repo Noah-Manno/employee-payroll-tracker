@@ -8,21 +8,21 @@ const collectEmployees = function() {
 let askAgain = true 
   while (askAgain == true) {
   let firstName = prompt("Enter First Name:");
-  console.log(firstName);
+  // console.log(firstName);
   let lastName = prompt("Enter Last Name:");
-  console.log(lastName);
+  // console.log(lastName);
   let salaryString = prompt("Enter Your Salary:");
   let salary = parseInt(salaryString)
   if (isNaN(salary)) {
     return 0
     }
-  console.log (salary);
+  // console.log (salary);
 
 let employee = {
   firstName, lastName, salary
 };
 
-console.log(employee);
+// console.log(employee);
 
 employeesArray.push(employee);
 
