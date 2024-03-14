@@ -40,7 +40,7 @@ Please refer to the LICENSE in the repo.
 
 Github Repository: https://github.com/Noah-Manno/employee-payroll-tracker
 
-Deployed Site: 
+Deployed Site: https://noah-manno.github.io/employee-payroll-tracker/
 
 ![site screenshot](/Assets/Images/Screenshot%202024-03-14%20at%2010.42.39%20AM.png)
 ![site screenshot](/Assets/Images/Screenshot%202024-03-14%20at%2010.46.54%20AM.png)
